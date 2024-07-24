@@ -1,16 +1,19 @@
-# pyqpedia
+# PYQPedia
 
-A new Flutter project.
+**PYQPedia** is a Flutter-based application designed to help students practice previous-year questions from various exams. The app features a detailed MCQ-based testing system that provides end-of-test feedback, enabling users to self-assess their performance effectively.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
+- **Practice Previous-Year Questions:** Access a repository of questions from past exams to practice and prepare.
+- **MCQ-Based Testing System:** Engage in multiple-choice quizzes with comprehensive feedback on performance at the end of each test.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Frontend & Backend:** Flutter, Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+- **Practice Questions:** Select the exam and subject to start practicing previous-year questions.
+- **Take Tests:** Engage in MCQ-based tests and receive detailed feedback on your performance at the end of each test.
+- **Review Performance:** Use the feedback to identify strengths and areas for improvement.
+
